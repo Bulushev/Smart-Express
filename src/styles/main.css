@@ -188,7 +188,7 @@ button {
 
 .cover {
     position: relative;
-    background-image: url(/src/images/cover-main.jpeg);
+    background-image: url(./src/images/cover-main.jpeg);
     background-repeat: no-repeat;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: overlay;
@@ -682,6 +682,6 @@ button {
 
 @font-face {
     font-family: 'Archivo-black';
-    src: url(/src/fonts/ArchivoBlack-Regular.ttf);
+    src: url(./src/fonts/ArchivoBlack-Regular.ttf);
     font-weight: 400;
 }
