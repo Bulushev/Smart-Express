@@ -682,6 +682,6 @@ button {
 
 @font-face {
     font-family: 'Archivo-black';
-    src: url(../src/fonts/ArchivoBlack-Regular.ttf);
+    src: url('../src/fonts/ArchivoBlack-Regular.ttf');
     font-weight: 400;
 }
